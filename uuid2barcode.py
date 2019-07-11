@@ -1,4 +1,3 @@
-[shchang@lewis4-r630-login-node676 wholeslides]$ more uuid2barcode.py 
 #python2
 #import requests
 import json
